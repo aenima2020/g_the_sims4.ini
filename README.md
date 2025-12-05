@@ -1,0 +1,1 @@
+# g_the_sims4.ini
